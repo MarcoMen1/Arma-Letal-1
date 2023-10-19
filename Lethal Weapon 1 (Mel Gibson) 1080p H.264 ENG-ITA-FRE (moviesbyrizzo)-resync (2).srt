@@ -33,7 +33,7 @@ hacemos sonar la alarma.
 
 9
 00:05:18,147 --> 00:05:19,637
-¡50 de los grandes!
+50 de los grandes!
 
 10
 00:05:21,384 --> 00:05:24,876
